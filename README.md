@@ -2,7 +2,7 @@
 
 Parametric pushover of RC moment frames using OpenSeesPy.
 
-![Pushover](docs/pushover.png)
+![Pushover]
 
 ## What it does
 Builds a parametric 2D RC moment frame, runs a nonlinear pushover, and reports
